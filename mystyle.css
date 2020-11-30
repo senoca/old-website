@@ -1,0 +1,19 @@
+body {
+    color: tan;
+    background-color: black;
+}
+header
+{
+    margin: 5%;
+}
+main {
+    margin: 5%;
+}
+section {
+    float: right;
+    margin: 5%;
+    padding: 20px;
+}
+a {
+    color: tan;
+}
