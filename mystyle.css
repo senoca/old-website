@@ -9,9 +9,6 @@ header
 main {
     margin: 2%;
 }
-footer {
-    margin: 2%;
-}
 section {
     float: right;
     margin-top: 20px;
@@ -30,7 +27,7 @@ p {
     text-align: justify;
 }
 footer {
-    margin-top: 10%;
+    margin-top: 5%;
     text-align: center;
 }
 td {
