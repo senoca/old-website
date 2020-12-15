@@ -4,10 +4,13 @@ body {
 }
 header
 {
-    margin: 5%;
+    margin: 2%;
 }
 main {
-    margin: 5%;
+    margin: 2%;
+}
+footer {
+    margin: 2%;
 }
 section {
     float: right;
@@ -19,7 +22,17 @@ section {
 a {
     color: tan;
 }
+a:hover {
+    color: white;
+}
 
+p {
+    text-align: justify;
+}
+footer {
+    margin-top: 10%;
+    text-align: center;
+}
 td {
     padding-right: 30px;
 }
