@@ -1,7 +1,6 @@
 body {
-    color: tan;
+    color: darkgreen;
     background-color: black;
-    margin: 2%;
 }
 header
 {
@@ -10,6 +9,11 @@ header
 main {
     margin: 2%;
 }
+
+nav {
+    text-align: center;
+}
+
 section {
     float: right;
     margin-top: 20px;
@@ -18,10 +22,10 @@ section {
     margin-left: 20px;
 }
 a {
-    color: tan;
+    color: darkgreen;
 }
 a:hover {
-    color: white;
+    color: green;
 }
 
 p {
@@ -34,7 +38,4 @@ footer {
 }
 td {
     padding-right: 30px;
-}
-nav {
-    text-align: center;
 }
